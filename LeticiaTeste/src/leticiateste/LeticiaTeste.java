@@ -11,12 +11,15 @@ package leticiateste;
  * @author 31311954
  */
 public class LeticiaTeste {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+      String nome;
+      int numero;
+      
+        
+        
+    }
+
+    public LeticiaTeste() {
     }
     
 }
